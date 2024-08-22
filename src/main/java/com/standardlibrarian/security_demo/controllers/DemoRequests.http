@@ -1,0 +1,4 @@
+###
+GET localhost:8080/hello
+Authorization: basic mdht 00000000
+###
